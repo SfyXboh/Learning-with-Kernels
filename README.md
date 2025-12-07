@@ -46,4 +46,4 @@ where $\hat{f}$ is the trained model. Finally, this step was repeated twenty tim
 ## Result
 ![Plot of kernel functions](output.png)
 
-*Figure 1: The result of the numerical experiment. The first two columns compares the fitted model (black line) with the target function (red line) when sample size $n = 100$. The generated data points are displayed as black crosses. The last column shows the convergence rates (excess risk vs sample size) of the model when fitting the smooth and non-smooth target. The first row shows result using the exponential kernel; the second, Matérn with order 3; the third, Gaussian.*
+*Figure 1: The result of the numerical experiment. The first two columns compares the fitted model (black line) with the target function (red line) when sample size* $n = 100$*. The generated data points are displayed as black crosses. The last column shows the convergence rates (excess risk vs sample size) of the model when fitting the smooth and non-smooth target. The first row shows result using the exponential kernel; the second, Matérn with order 3; the third, Gaussian.*
